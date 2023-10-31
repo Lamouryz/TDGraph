@@ -1,0 +1,1 @@
+This folder is used as a method for the terminal's all outputs storage.

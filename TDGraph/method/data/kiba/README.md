@@ -1,0 +1,1 @@
+You can access the kiba dataset at the given URL : https://github.com/hkmztrk/DeepDTA/tree/master/data/ .

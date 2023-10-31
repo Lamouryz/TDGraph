@@ -1,0 +1,1 @@
+This folder is used for saving the output model .pt.
